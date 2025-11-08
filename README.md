@@ -1,4 +1,5 @@
-#  Customer Segmentation System(https://cusromer-segmentation-l7jwahrko8zxcj8bur5beu.streamlit.app/)
+#  Customer Segmentation System
+(https://cusromer-segmentation-l7jwahrko8zxcj8bur5beu.streamlit.app/)
 
 An advanced, research-grade **unsupervised learning pipeline** built to perform intelligent segmentation, automated model selection, and meta-clustering analysis — developed with full **modularity**, **scalability**, and **interpretability** in mind.
 
@@ -101,13 +102,3 @@ The system’s core innovation lies in its **meta-clustering strategy**, which b
 - Optimize processing for **big data** via `MiniBatchKMeans` or **Dask**.
 
 ---
-
-## (Author)
-
-**Professor AI**  
-AI Research Engineer — Specialized in Unsupervised Learning, Deep Learning, and Data Intelligence Systems.  
-
- *For collaborations or contributions, feel free to reach out.*
-
----
-
