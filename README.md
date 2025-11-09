@@ -1,5 +1,5 @@
 #  Customer Segmentation System
-(https://cusromer-segmentation-l7jwahrko8zxcj8bur5beu.streamlit.app/)
+# App : (https://cusromer-segmentation-l7jwahrko8zxcj8bur5beu.streamlit.app/)
 
 An advanced, research-grade **unsupervised learning pipeline** built to perform intelligent segmentation, automated model selection, and meta-clustering analysis — developed with full **modularity**, **scalability**, and **interpretability** in mind.
 
